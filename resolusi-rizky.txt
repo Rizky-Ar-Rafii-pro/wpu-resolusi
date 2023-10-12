@@ -2,3 +2,9 @@ Bismillah bisa belajar Git Hub
 - done OOP minggu ini
 - install and understandig PostgreeSQL
 - understanding Yii 1
+
+
+edit untuk tambahan baru:
+-okay 1
+-okay 2
+-okay 3
