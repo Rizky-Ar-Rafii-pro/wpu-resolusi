@@ -1,0 +1,6 @@
+RENCANA KONTEN HARI INI
+
+- javascript
+- PHP framework
+- Interview
+- Vlogs
