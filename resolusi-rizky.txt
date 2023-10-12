@@ -1,0 +1,4 @@
+Bismillah bisa belajar Git Hub
+- done OOP minggu ini
+- install and understandig PostgreeSQL
+- understanding Yii 1
