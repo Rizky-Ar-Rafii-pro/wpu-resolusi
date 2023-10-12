@@ -1,6 +1,8 @@
 RENCANA KONTEN HARI INI
 
 - javascript
+  * ES 6
+  * Framework
 - PHP framework
 - Interview
 - Vlogs
